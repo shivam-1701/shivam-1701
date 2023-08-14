@@ -7,20 +7,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-1701&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-1701" /> </p>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div>
+<div style="display: flex;">
+  <div style="flex: 1;">
     <ul>
-      <li>🔭 I’m currently working on <a href="https://github.com/shivam-1701/text_proctor">text-proctor</a></li>
-      <li>🌱 I’m currently learning <strong>Natural Language Processing, Prompt Engineering and Deep Learning</strong></li>
-      <li>💬 Ask me about <strong>Machine Learning and Computer Vision</strong></li>
-      <li>📫 How to reach me <strong>shivam.work1701@gmail.com</strong></li>
+      <li>🔭 I’m currently working on text-proctor</li>
+      <li>🌱 I’m currently learning Natural Language Processing, Prompt Engineering, and Deep Learning</li>
+      <li>💬 Ask me about Machine Learning and Computer Vision</li>
+      <li>📫 How to reach me: shivam.work1701@gmail.com</li>
     </ul>
   </div>
+  <div style="flex: 1;">
+    <p align="center">
+      <img src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif" alt="GIF Animation" width="480" height="275.200">
+    </p>
+  </div>
 </div>
-
-<p align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="GIF Animation" width="300"/>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
