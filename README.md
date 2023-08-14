@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about unleashing the cosmic power of AI and ML to reshape industries and sprinkle a little stardust on the art of living. I'm particularly captivated by the enchanting symphony of Natural Language Processing (NLP) and its mesmerizing ability to unravel the cryptic language of humans and machines.</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Another GIF Animation" width="4500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Another GIF Animation" width="1100"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-1701&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-1701" /> </p>
