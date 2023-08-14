@@ -1,9 +1,9 @@
+![logo](https://github.com/shivam-1701/shivam-1701/blob/main/banner.png)
+<h3 align="center">Passionate about unleashing the cosmic power of AI and ML to reshape industries and sprinkle a little stardust on the art of living. I'm particularly captivated by the enchanting symphony of Natural Language Processing (NLP) and its mesmerizing ability to unravel the cryptic language of humans and machines.</h3>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Another GIF Animation" width="4500"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
-<h3 align="center">Passionate about the potential of AI and ML to transform industries and improve lives. Particularly excited about the magic of Natural Language Processing (NLP) and its role in understanding and processing human language.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-1701&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-1701" /> </p>
 
